@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Clinton-Migono
-- 👀 I’m interested in doing webdeveloping
-- 🌱 I’m currently learning python/js/java/c++/php
-- 💞️ I’m looking to collaborate on python developing
+- 👀 I’m a web developer, SQL developer and python developer
+- 🌱 I’m currently learning node_js
 - 📫 How to reach me migonoclintonjr@gmail.com
 
 <!---
